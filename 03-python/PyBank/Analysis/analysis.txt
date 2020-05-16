@@ -1,0 +1,7 @@
+FINANCIAL ANALYSIS
+--------------------
+Total number of months: 86
+Total of net revenue: $38382578
+Average monthly change in net revenue: $-2315.1176470588234
+Greatest increase in net revenue: Feb-2012 $1926159
+Greatest decrease in net revenue: Sep-2013 $-2196167

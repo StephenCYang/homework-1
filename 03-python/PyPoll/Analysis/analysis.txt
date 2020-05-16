@@ -1,0 +1,12 @@
+POLL ANALYSIS
+********************
+Total votes: 3,521,001
+********************
+List of candidates: ['Khan', 'Correy', 'Li', "O'Tooley"]
+********************
+Khan: 63.00% (2,218,231)
+Correy: 20.00% (704,200)
+Li: 14.00% (492,940)
+O'Tooley: 3.00% (105,630)
+********************
+The winner is Khan and got 63.00% of the votes (2,218,231)

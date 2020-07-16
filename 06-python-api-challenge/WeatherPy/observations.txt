@@ -1,0 +1,5 @@
+1) Data shows us that temps are in fact hotter as one approaches the equator.
+
+2) Colder temperatures are experienced sooner when moving south of the equator than if one moves north-- i.e. Temp of 50 degrees is experienced between -40 and -50 lat in the southern hemisphere, but between 60 and 70 lat in the northern hemisphere.
+
+3) Wind speeds tend to stay below 20mph across all latitudes.

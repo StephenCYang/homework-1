@@ -1,0 +1,23 @@
+Tableau URL:
+https://public.tableau.com/views/CitiTripData2019/Story?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
+
+---------
+
+The analysis presented here uses data from the Citi Bike program. It looks to compare the first 6 months (Q1 & Q2) of 2019 vs. 2020.
+
+---------
+
+Observation 1:
+While overall number of rides has diminished overall in 2020, duration for both Females and Males has increases. Perhaps less work commuters (presumably shorter rides) and more errand and leisure commutes. An interesting finding is that Females compose a larger percentage of rides than males in MOM for the year 2020.
+
+---------
+
+Observation 2:
+Rides starting and ending in the Most Popular Station has diminished significantly in 2020 while most others have remained relatively close YOY with some decreases.
+
+---------
+
+Main Data Source: https://www.citibikenyc.com/system-data 
+
+Trip History Data Source: https://s3.amazonaws.com/tripdata/index.html 
+
